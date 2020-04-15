@@ -1,7 +1,9 @@
-def ok
+def maomao
+	a = 0
+	b = 1
 
-	return "ok" if nil
+	return false || true
 end 
 
 
-p ok
+p maomao
